@@ -1,0 +1,82 @@
+.drawer{  
+	margin: 10,
+ } 
+ .appbar{  
+ 	margin: 10
+  } 
+.CardStyle{  
+	width:300px; 
+	height:250px;
+	margin: 10px;
+	padding: 10px; 
+	border-style: solid;
+	border-width: 1px;  
+
+ } 
+ .CardContentStyle{  
+ 	font-size: 20px; 
+ 	font-weight: bold; 
+ 	z-index:9999;
+  }  
+
+  .CardDisplay{  
+  	display: flex;  
+  	flex-wrap: wrap;
+  	margin: 20px;
+   } 
+
+ .tbDiagnosis{  
+ 	background-image: url(http://cdn.24.co.za/files/Cms/General/d/3777/ed71b1518ab74a33b39a74f40a084625.jpg); 
+ 	background-size: cover;   
+ 	z-index:1;
+  } 
+
+  .verbalSceening{  
+ 	background-image: url(http://www.indiahealthfund.org/assets/images/Tuberculosis-maleriya/tb-infographic.png); 
+ 	background-size: cover;  
+ 	z-index:1; 
+  }  
+
+   .contactTracing{  
+ 	background-image: url(http://www.visualcomplexity.com/vc/images/28_big01.jpg); 
+ 	background-size:cover;  
+ 	z-index:1; 
+  } 
+
+  .tbTreatment{  
+ 	background-image: url(http://www.cambridgeinternational.org/Images/documentation_icon_blue_border_2.svg); 
+ 	background-size: 300px 150px; 
+ 	background-repeat: no-repeat; 
+ 	background-position: center;
+ 	z-index:1; 
+  }  
+
+ .taTool{  
+ 	background-image: url(http://sitesazsahar.ir/images//content/contents/f97b23df-7e9a-4066-a28a-6191e7f88ef9.gif); 
+ 	background-size: 150px 150px; 
+ 	background-repeat: no-repeat; 
+ 	background-position: center;
+ 	z-index:1; 
+  } 
+
+ .contactCaseLine{  
+ 	position: relative; 
+  	background-image: url(https://www.widex.co.uk/-/media/images/generic/icons/icon-professional.png?w=323&hash=CBFD427F4C80A0DD56759B06A34E24021236FF94); 
+  	background-size:cover;   
+  	z-index:1;
+ } 
+ h4{   
+ 	position: relative;
+ 	font-weight: bold;
+ 	font-size: 20px; 
+ 	color:black; 
+ 	z-index:2;
+
+  } 
+
+
+
+
+
+
+

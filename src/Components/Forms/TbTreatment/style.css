@@ -1,0 +1,55 @@
+h3{   
+	margin-top: 0px; 
+	text-align: center;
+
+ }  
+ body{  
+  
+  }
+ nav{  
+ 	color: #FF6F00;
+  } 
+
+  .inputf{
+  	width: 20;
+  } 
+
+  .buttoncenter{  
+
+   } 
+   .logo{  
+   	height: 500px; 
+   	width: 500px; 
+   padding-left: 20px;
+    } 
+
+    .heading{  
+      text-align: center;  
+      font-size: 50px;
+      font-family: 'IBM Plex Sans', sans-serif;
+      color:white;
+     } 
+
+  .formback{   
+    margin-top: 0px;
+    background-color: #4FC3F7; 
+    /* Set a specific height */
+   
+
+    /* Create the parallax scrolling effect */
+
+   }  
+
+   .formfont{  
+    background-color: #FFA726;  
+    color: white;
+    }
+
+   .navback{  
+    background-color: #795548;
+    } 
+
+    .buttoncenter{  
+      display: flex; 
+      justify-content: center;
+     }
